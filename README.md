@@ -27,6 +27,12 @@ After that, it asks for the name of the input file, for example if you have a fi
 
 And that is everything, you can now add the generated makefile to anywhere else!
 
+## Known Issues
+
+- I didn't use functions (I'm sorry, I will change it ASAP);
+- It only accepts 1 input file;
+- It only works for C and C++.
+
 ## Contributing
 
 - Feel free to contribute for this repository
