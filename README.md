@@ -33,6 +33,10 @@ And that is everything, you can now add the generated makefile to anywhere else!
 - It only accepts 1 input file;
 - It only works for C and C++.
 
+## Warnings
+
+- If you change the name of the file this wont work!
+
 ## Contributing
 
 - Feel free to contribute for this repository
